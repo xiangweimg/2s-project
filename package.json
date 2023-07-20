@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "pdfreader": "^3.0.0"
+  }
+}
